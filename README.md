@@ -5,7 +5,7 @@ This project demonstrates a fully functional static website deployed using GitHu
 ---
 
 Live Website
-https://suryanarayanang1.github.io/static-website/
+https://suryanarayanang1.github.io/static-project1/
 
 ---
 
