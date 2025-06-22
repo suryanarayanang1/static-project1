@@ -1,0 +1,15 @@
+# Node modules (if ever used)
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# AWS credential files
+.aws/
+
+# Sensitive files (just in case)
+.env
