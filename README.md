@@ -19,19 +19,6 @@ Tech Stack
 
 ---
 
-Preview
-
-![Screenshot_14-6-2025_13343_suryanarayanang1 github io](https://github.com/user-attachments/assets/eeec8365-3322-408e-8a21-0e34f48bc028)
-
-Docker
-![Screenshot 2025-06-22 131529](https://github.com/user-attachments/assets/58ebc182-2c6f-49d8-89b2-6e739b74e7d2)
-
-
-![Screenshot 2025-06-22 134716](https://github.com/user-attachments/assets/46204abf-6b90-4924-8b11-2a607e7784b1)
-
-
-![Screenshot 2025-06-22 134601](https://github.com/user-attachments/assets/3db6b82d-5ba2-4c92-8b10-196c250d0b0e)
-
 
 
 
