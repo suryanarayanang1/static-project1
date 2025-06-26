@@ -19,6 +19,9 @@ Tech Stack
 
 ---
 
+Implementations and Results
 
-
+![WhatsApp Image 2025-06-22 at 1 48 39 PM](https://github.com/user-attachments/assets/230b7a44-ada2-49fe-83d1-0cc34b7891ce)
+![WhatsApp Image 2025-06-22 at 1 48 40 PM](https://github.com/user-attachments/assets/4fd0ff7f-115e-4c8e-b80e-a34e706b4500)
+![WhatsApp Image 2025-06-22 at 1 48 40 PM (1)](https://github.com/user-attachments/assets/5864fe45-fd76-43af-8634-524e8a75947f)
 
