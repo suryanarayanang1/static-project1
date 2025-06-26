@@ -1,6 +1,6 @@
 Static Website Deployment using GitHub Pages
 
-This project demonstrates a fully functional static website deployed using GitHub Pages,Docker as part of a DevOps internship exercise. It showcases a modern and responsive product landing page featuring sports gear, built using only **HTML and CSS**.
+This project demonstrates a fully functional static website deployed using GitHub Pages,Docker as part of a DevOps internship exercise. It showcases a static website built and hosted using GitHub pages using only **HTML and CSS**.
 
 ---
 
